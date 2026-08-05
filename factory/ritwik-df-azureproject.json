@@ -1,0 +1,15 @@
+{
+	"name": "ritwik-df-azureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c8f6f4fe-cb31-46be-9135-85ec59d35843",
+		"tenantId": "4d9f8cde-2bcd-4617-ab6d-08817e6e0c4d"
+	}
+}
